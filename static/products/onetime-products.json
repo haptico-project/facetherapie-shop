@@ -1,0 +1,488 @@
+[
+  {
+    "id": "price_1RTmNDPo9yD7PttVdg6k0D9U",
+    "name": {
+      "ja": "顔リズム単品（振動機無し）",
+      "en": "Kaorhythm (Device Only, Without Vibration Module)"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "contents": {
+      "ja": [
+        "顔リズム1台",
+        "顔リズム用今治ゴムタオル",
+        "顔リズム専用バッグ"
+      ],
+      "en": [
+        "1 Kaorhythm device",
+        "Imabari towel for Kaorhythm",
+        "Kaorhythm exclusive carry bag"
+      ]
+    },
+    "price": 165000,
+    "image": "/images/products/kaorythm_new.jpg",
+    "category": {
+      "ja": "顔リズム本体",
+      "en": "Kaorhythm Main body"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDBNPo9yD7PttVeNZrVUuF",
+    "name": {
+      "ja": "顔リズム「お得なビューティーセット」（プロのサポート＋顔リズム）",
+      "en": "Kaorhythm Beauty Set (Pro Support + Kaorhythm)"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "contents": {
+      "ja": [
+        "顔リズム1台",
+        "顔リズム用今治ゴムタオル",
+        "顔リズム専用バッグ",
+        "ワンタッチ振動装置"
+      ],
+      "en": [
+        "1 Kaorhythm device",
+        "Imabari towel for Kaorhythm",
+        "Kaorhythm exclusive carry bag",
+        "One-touch vibration module"
+      ]
+    },
+    "price": 220000,
+    "image": "/images/products/kaorythm_new.jpg",
+    "category": {
+      "ja": "顔リズム本体",
+      "en": "Kaorhythm Main body"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDDHPo9yD7PttVfBZWa6KI",
+    "name": {
+      "ja": "顔リズムゴム付タオル（洗い替え用）ピンク色",
+      "en": "Kaorhythm Towel with Band (Pink)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴム付き交換タオル（ピンク）",
+      "en": "Replacement towel with band for Kaorhythm (Pink)"
+    },
+    "price": 5500,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDEuPo9yD7PttVtYzDWCyy",
+    "name": {
+      "ja": "顔リズムゴム付タオル（洗い替え用）青色",
+      "en": "Kaorhythm Towel with Band (Blue)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴム付き交換タオル（青）",
+      "en": "Replacement towel with band for Kaorhythm (Blue)"
+    },
+    "price": 5500,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDFPPo9yD7PttVopCDpAKa",
+    "name": {
+      "ja": "顔リズムゴム無しタオル ピンク色",
+      "en": "Kaorhythm Plain Towel (Pink)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴムなしフェイスタオル（ピンク）",
+      "en": "Plain towel for Kaorhythm (Pink)"
+    },
+    "price": 2750,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDFtPo9yD7PttVsOr6lW7V",
+    "name": {
+      "ja": "顔リズムゴム無しタオル 白色",
+      "en": "Kaorhythm Plain Towel (White)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴムなしフェイスタオル（白）",
+      "en": "Plain towel for Kaorhythm (White)"
+    },
+    "price": 2750,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKEPo9yD7PttVoMhjbpZ3",
+    "name": {
+      "ja": "ひっぱってリフトアップフェイスシート",
+      "en": "Lift-up Face Sheet"
+    },
+    "description": {
+      "ja": "肌を引き上げるフェイスシート（個包装）",
+      "en": "Face sheet for lifting skin (single use)"
+    },
+    "price": 3300,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKSPo9yD7PttVnUWQITH6",
+    "name": {
+      "ja": "伝振保湿シート",
+      "en": "Moisture-Damping Sheet"
+    },
+    "description": {
+      "ja": "顔リズム用の高保湿シート",
+      "en": "High moisture sheet for Kaorhythm"
+    },
+    "price": 8800,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKrPo9yD7PttV9FgNmFi0",
+    "name": {
+      "ja": "振動装置（iPhone）と顔リズムとの接続コード",
+      "en": "Vibration Cable for iPhone to Kaorhythm"
+    },
+    "description": {
+      "ja": "iPhoneと顔リズムを接続する専用コード",
+      "en": "Dedicated cable to connect iPhone and Kaorhythm device"
+    },
+    "price": 880,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDLLPo9yD7PttV7D2PG90M",
+    "name": {
+      "ja": "ふきとりレスマッサージ＆パックジェル＋伝振保湿シートのセット",
+      "en": "No-Wipe Massage Pack Gel + High moisture sheet"
+    },
+    "description": {
+      "ja": "250g 約50回分のマッサージジェル",
+      "en": "250g massage gel (about 50 uses)"
+    },
+    "price": 19800,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "contents": {
+      "ja": [
+        "ふき取りレスマッサージ＆パックジェル",
+        "伝振保湿シート"
+      ],
+      "en": [
+        "No-Wipe Massage Pack Gel",
+        "High moisture sheet"
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoiDQPo9yD7PttVE9kl1cXA",
+    "name": {
+      "ja": "Dr.AI 振動装置セット",
+      "en": "Dr.AI Vibration Device Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 165000,
+    "image": "/images/products/drai.jpg",
+    "category": {
+      "ja": "Dr.AI本体",
+      "en": "Dr.AI Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI 本体",
+        "Dr.AI用ゴム付きタオル",
+        "Dr.AI専用バッグ",
+        "ワンタッチ振動装置"
+      ],
+      "en": [
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjPPo9yD7PttVrh0kcFRX",
+    "name": {
+      "ja": "Dr.AI ゴム付き丸カバーピンク",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjQPo9yD7PttV0ajAW1U8",
+    "name": {
+      "ja": "Dr.AI ゴム付き丸カバー白",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjRPo9yD7PttVjl4H4vZT",
+    "name": {
+      "ja": "Dr.AI ゴム付き丸カバー黒",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjSPo9yD7PttVk2Zkasze",
+    "name": {
+      "ja": "Dr.AI 長カバー",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjTPo9yD7PttV7mG4uo7M",
+    "name": {
+      "ja": "Dr.AI 専用小豆カイロ",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 5500,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjUPo9yD7PttVUU7EfV4v",
+    "name": {
+      "ja": "振動装置とDr.AIの接続コード",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 880,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjVPo9yD7PttVFkfygNXx",
+    "name": {
+      "ja": "伝振振動シート",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 8800,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjWPo9yD7PttVYMf0l0VV",
+    "name": {
+      "ja": "Dr.AI 専用美白パックジェル",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 16500,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QojjYPo9yD7PttVRVBqba05",
+    "name": {
+      "ja": "肌質改善化粧品お試しセット",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 1650,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AIアクセサリ",
+      "en": "Dr.AI Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+
+  {
+    "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
+    "name": {
+      "ja": "Dr.AI haru 基本セット",
+      "en": "Dr.AI haru Basic Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 110000,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動機",
+        "Dr.AI haru アタッチメント-長帯",
+        "持ち歩き用振動装置ポーチ"
+      ],
+      "en": [
+      ]
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RY9UFPo9yD7PttVAM874j1M",
+    "name": {
+      "ja": "Dr.AI haru アタッチメントセット",
+      "en": "Dr.AI haru Attachment Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 125000,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動機",
+        "Dr.AI haru アタッチメント-長帯",
+        "Dr.AI haru アタッチメント-アイマスク&ショルダー",
+        "持ち歩き用振動装置ポーチ"
+      ],
+      "en": [
+      ]
+    },
+    "new": true,
+    "disabled": false
+  }
+]

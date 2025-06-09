@@ -4,12 +4,12 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				color1: '#004CA0',
-				color2: '#C0E4FF',
-				color3: '#B78F00',
-				textColor: '#0F0101',
-				linkColor: '#00B2FF',
-				backgroundColor: '#FFFFFF'
+				color1: '#C97D7D',        // 主役ピンク
+				color2: '#F3E8E7',        // 背景ピンク
+				color3: '#B79C6B',        // ゴールドアクセント
+				textColor: '#3D2E2E',     // 本文ブラウン
+				linkColor: '#3D2E2E',     // 控えめピンク（リンク）
+				backgroundColor: '#FFFFFF' // 全体背景白
 			},
 			fontFamily: {
 				en: ['Spartan', 'sans-serif'],
