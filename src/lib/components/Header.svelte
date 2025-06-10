@@ -1,9 +1,7 @@
 <script lang="ts">
 	import { locale, t } from '$lib/i18n';
-	import Breadcrumb from '$lib/components/Breadcrumb.svelte';
 	import { cart } from '$lib/stores/cart';
 	import { agencyCode } from '$lib/agency/agencyCode';
-	import { page } from '$app/stores';
 	import { get } from 'svelte/store';
 
 	let currentLocale: 'ja' | 'en' = get(locale);
@@ -57,8 +55,8 @@
 				on:change={changeLang}
 				bind:value={currentLocale}
 			>
-			<option value="ja">JA</option>
-			<option value="en">EN</option>
+				<option value="ja">JA</option>
+				<option value="en">EN</option>
 			</select>
 
 		</div>

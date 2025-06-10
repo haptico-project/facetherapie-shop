@@ -64,6 +64,94 @@
     "disabled": false
   },
   {
+    "id": "price_1QoiDQPo9yD7PttVE9kl1cXA",
+    "name": {
+      "ja": "Dr.AI 振動装置セット",
+      "en": "Dr.AI Vibration Device Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 165000,
+    "image": "/images/products/drai.jpg",
+    "category": {
+      "ja": "Dr.AI本体",
+      "en": "Dr.AI Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI 本体",
+        "Dr.AI用ゴム付きタオル",
+        "Dr.AI専用バッグ",
+        "ワンタッチ振動装置"
+      ],
+      "en": [
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
+    "name": {
+      "ja": "Dr.AI haru 基本セット",
+      "en": "Dr.AI haru Basic Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 110000,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動機",
+        "Dr.AI haru アタッチメント-長帯",
+        "持ち歩き用振動装置ポーチ"
+      ],
+      "en": [
+      ]
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RY9UFPo9yD7PttVAM874j1M",
+    "name": {
+      "ja": "Dr.AI haru アタッチメントセット",
+      "en": "Dr.AI haru Attachment Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 125000,
+    "image": "/images/products/noimage.png",
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動機",
+        "Dr.AI haru アタッチメント-長帯",
+        "Dr.AI haru アタッチメント-アイマスク&ショルダー",
+        "持ち歩き用振動装置ポーチ"
+      ],
+      "en": [
+      ]
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
     "id": "price_1QoDDHPo9yD7PttVfBZWa6KI",
     "name": {
       "ja": "顔リズムゴム付タオル（洗い替え用）ピンク色",
@@ -220,35 +308,6 @@
       "en": [
         "No-Wipe Massage Pack Gel",
         "High moisture sheet"
-      ]
-    },
-    "new": false,
-    "disabled": false
-  },
-  {
-    "id": "price_1QoiDQPo9yD7PttVE9kl1cXA",
-    "name": {
-      "ja": "Dr.AI 振動装置セット",
-      "en": "Dr.AI Vibration Device Set"
-    },
-    "description": {
-      "ja": "",
-      "en": ""
-    },
-    "price": 165000,
-    "image": "/images/products/drai.jpg",
-    "category": {
-      "ja": "Dr.AI本体",
-      "en": "Dr.AI Main Body"
-    },
-    "contents": {
-      "ja": [
-        "Dr.AI 本体",
-        "Dr.AI用ゴム付きタオル",
-        "Dr.AI専用バッグ",
-        "ワンタッチ振動装置"
-      ],
-      "en": [
       ]
     },
     "new": false,
@@ -423,66 +482,6 @@
       "en": "Dr.AI Accessory"
     },
     "new": false,
-    "disabled": false
-  },
-
-  {
-    "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
-    "name": {
-      "ja": "Dr.AI haru 基本セット",
-      "en": "Dr.AI haru Basic Set"
-    },
-    "description": {
-      "ja": "",
-      "en": ""
-    },
-    "price": 110000,
-    "image": "/images/products/noimage.png",
-    "category": {
-      "ja": "Dr.AI haru 本体",
-      "en": "Dr.AI haru Main Body"
-    },
-    "contents": {
-      "ja": [
-        "Dr.AI haru 本体",
-        "振動機",
-        "Dr.AI haru アタッチメント-長帯",
-        "持ち歩き用振動装置ポーチ"
-      ],
-      "en": [
-      ]
-    },
-    "new": true,
-    "disabled": false
-  },
-  {
-    "id": "price_1RY9UFPo9yD7PttVAM874j1M",
-    "name": {
-      "ja": "Dr.AI haru アタッチメントセット",
-      "en": "Dr.AI haru Attachment Set"
-    },
-    "description": {
-      "ja": "",
-      "en": ""
-    },
-    "price": 125000,
-    "image": "/images/products/noimage.png",
-    "category": {
-      "ja": "Dr.AI haru 本体",
-      "en": "Dr.AI haru Main Body"
-    },
-    "contents": {
-      "ja": [
-        "Dr.AI haru 本体",
-        "振動機",
-        "Dr.AI haru アタッチメント-長帯",
-        "Dr.AI haru アタッチメント-アイマスク&ショルダー",
-        "持ち歩き用振動装置ポーチ"
-      ],
-      "en": [
-      ]
-    },
-    "new": true,
     "disabled": false
   }
 ]
