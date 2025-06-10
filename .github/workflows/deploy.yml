@@ -44,3 +44,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           publish_branch: gh-pages
+      - name: Add CNAME
+        run: echo 'facetherapie.shop' > build/CNAME
