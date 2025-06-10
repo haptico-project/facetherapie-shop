@@ -1,0 +1,1 @@
+async function o(){const t=await fetch("/products/onetime-products.json");if(!t.ok)throw new Error("Failed to load products");return await t.json()}async function r(){return(await o()).filter(a=>!a.disabled).filter(a=>a.new)}async function e(t){return(await o()).filter(n=>!n.disabled).find(n=>n.id===t)}export{o as a,e as b,r as f};
