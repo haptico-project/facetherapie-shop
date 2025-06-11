@@ -73,12 +73,11 @@
 				{currentLocale === 'ja' ? '商品一覧' : 'Products'}
 			</a>
 		</div>
-
 		<!-- ✅ 代理店コード表示 -->
 		{#if $agencyCode}
 		<span class="text-xs text-gray-500 ml-auto">
 			{currentLocale === 'ja' ? 'shop code: ' : 'Shop code: '}
-			<span class="font-semibold">{$agencyCode}</span>
+			<span class="font-semibold"><a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${agencyCode}`}>{agencyCode}</a></span>
 		</span>
 		{/if}
 	</div>
