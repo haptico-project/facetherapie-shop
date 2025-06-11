@@ -15,9 +15,9 @@
 <footer class={`text-sm text-center py-8 sm:py-12 ${path === '/cart' ? 'pb-24' : 'pb-12'} mt-12`}>
 	{#if !shouldHideFooter}
 		<div class="max-w-4xl mx-auto">
-			{#if shopCode}
-				<a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${shopCode}`}>お問い合わせ</a>
-			{/if}
+			<!--{#if shopCode}-->
+			<!--	<a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${shopCode}`}>お問い合わせ</a>-->
+			<!--{/if}-->
 			<p class="mb-2">{t('footer.copy')}</p>
 			<nav class="space-x-4">
 <!--				TODO-->

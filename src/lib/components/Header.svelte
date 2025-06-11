@@ -77,7 +77,7 @@
 		{#if $agencyCode}
 		<span class="text-xs text-gray-500 ml-auto">
 			{currentLocale === 'ja' ? 'shop code: ' : 'Shop code: '}
-			<span class="font-semibold"><a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${$agencyCode}`}>{$agencyCode}</a></span>
+			<span class="font-semibold underline"><a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${$agencyCode}`}>{$agencyCode}</a></span>
 		</span>
 		{/if}
 	</div>
