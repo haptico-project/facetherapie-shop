@@ -1,6 +1,7 @@
 <script>
 	import { t } from '$lib/i18n';
 	import { page } from '$app/stores';
+	import { agencyCode } from '$lib/agency/agencyCode';
 
 	$: path = $page.url.pathname;
 
@@ -16,6 +17,9 @@
 <!--				TODO-->
 <!--				<a href="/privacy" class="hover:underline">{t('footer.privacy')}</a>-->
 <!--				<a href="/terms" class="hover:underline">{t('footer.terms')}</a>-->
+				{#if agencyCode}
+					<a href={`https://liff.line.me/2007233135-vxLAjokB?shopCode=${agencyCode}`}>お問い合わせ</a>
+				{/if}
 			</nav>
 		</div>
 	{/if}
