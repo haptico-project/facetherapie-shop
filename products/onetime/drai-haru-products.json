@@ -1,0 +1,130 @@
+[
+  {
+    "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
+    "name": {
+      "ja": "Dr.AI haru 基本セット",
+      "en": "Dr.AI haru Basic Set"
+    },
+    "description": {
+      "ja": "",
+      "en": "Includes the main Dr.AI haru unit, vibration module, long strap attachment, and portable pouch."
+    },
+    "price": 110000,
+    "images": [
+      "/images/products/drai-haru/haru-at-1.jpg",
+      "/images/products/drai-haru/haru-at-2.jpg",
+      "/images/products/drai-haru/haru-at-3.jpg",
+      "/images/products/drai-haru/haru-at-4.jpg",
+      "/images/products/drai-haru/haru-at-5.jpg",
+      "/images/products/drai-haru/haru-at-6.jpg"
+    ],
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動装置",
+        "モバイルバッテリー",
+        "充電用のソケットとコード",
+        "携帯用収納ケース",
+        "綿の帯状アタッチメント",
+        "黒いポーチ"
+      ],
+      "en": [
+        "Dr.AI haru Main Unit",
+        "Vibration Module",
+        "Dr.AI haru Attachment - Long Strap",
+        "Portable Pouch for Vibration Device"
+      ]
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RY9UFPo9yD7PttVAM874j1M",
+    "name": {
+      "ja": "Dr.AI haru アタッチメントセット",
+      "en": "Dr.AI haru Attachment Set"
+    },
+    "description": {
+      "ja": "",
+      "en": "A complete set including the Dr.AI haru unit, vibration module, long strap, eye mask & shoulder attachments, and a portable pouch."
+    },
+    "price": 125000,
+    "images": [
+      "/images/products/drai-haru/haru-at-1.jpg",
+      "/images/products/drai-haru/haru-at-2.jpg",
+      "/images/products/drai-haru/haru-at-3.jpg",
+      "/images/products/drai-haru/haru-at-4.jpg",
+      "/images/products/drai-haru/haru-at-5.jpg",
+      "/images/products/drai-haru/haru-at-6.jpg",
+      "/images/products/drai-haru/haru-at-7.jpg",
+      "/images/products/drai-haru/haru-at-8.jpg"
+    ],
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動装置",
+        "モバイルバッテリー",
+        "充電用のソケットとコード",
+        "携帯用収納ケース",
+        "綿の帯状アタッチメント",
+        "アイマスク兼ショルダー用アタッチメント",
+        "黒いポーチ"
+      ],
+      "en": [
+        "Dr.AI haru Main Unit",
+        "Vibration Module",
+        "Dr.AI haru Attachment - Long Strap",
+        "Dr.AI haru Attachment - Eye Mask & Shoulder",
+        "Portable Pouch for Vibration Device"
+      ]
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RatUePo9yD7PttVRykkCdV8",
+    "name": {
+      "ja": "Dr.AI HARUアタッチメント1ー長帯",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "images": ["/images/products/drai-haru/haru-at-4.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1RatX5Po9yD7PttVjmx6jZV5",
+    "name": {
+      "ja": "Dr.AI HARUアタッチメント2ーアイマスク&ショルダー",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 16500,
+    "images": ["/images/products/drai-haru/haru-at-7.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": false,
+    "disabled": false
+  }
+]

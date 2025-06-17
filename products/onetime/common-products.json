@@ -1,0 +1,52 @@
+[
+  {
+    "id": "price_1RatasPo9yD7PttVnq11AZCT",
+    "name": {
+      "ja": "振動機単品",
+      "en": "No-Wipe Massage Pack Gel + High Moisture Sheet Set"
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 55000,
+    "images": [
+      "/images/products/common/vibrator.png"
+    ],
+    "category": {
+      "ja": "共通アクセサリ",
+      "en": "Common Accessory"
+    },
+    "contents": {
+      "ja": [
+        "振動機"
+      ],
+      "en": [
+        ""
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "持ち歩き用振動装置ポーチ",
+    "name": {
+      "ja": "持ち歩き用振動装置ポーチ",
+      "en": ""
+    },
+    "description": {
+      "ja": "",
+      "en": ""
+    },
+    "price": 3980,
+    "images": [
+      "/images/products/common/vibrator-porch.png"
+    ],
+    "category": {
+      "ja": "共通アクセサリ",
+      "en": "Common Accessory"
+    },
+    "new": false,
+    "disabled": false
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "price_1RTmNDPo9yD7PttVdg6k0D9U",
+    "name": {
+      "ja": "顔リズムプロ(振動器無し)",
+      "en": "Kaorhythm Pro (without Vibration Module)"
+    },
+    "description": {
+      "ja": "",
+      "en": "Includes the Kaorhythm Pro device only (vibration module not included)."
+    },
+    "contents": {
+      "ja": [
+        "顔リズム1台",
+        "顔リズム用今治ゴムタオル",
+        "顔リズム専用バッグ"
+      ],
+      "en": [
+        "1 Kaorhythm Pro device",
+        "Imabari towel for Kaorhythm",
+        "Exclusive Kaorhythm carry bag"
+      ]
+    },
+    "price": 165000,
+    "images": ["/images/products/kaorythm_new.jpg"],
+    "category": {
+      "ja": "顔リズム本体",
+      "en": "Kaorhythm Main Body"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDBNPo9yD7PttVeNZrVUuF",
+    "name": {
+      "ja": "顔リズムプロ(振動器付きセット)",
+      "en": "Kaorhythm Pro (with Vibration Module Set)"
+    },
+    "description": {
+      "ja": "",
+      "en": "Complete set with Kaorhythm Pro, vibration module and accessories."
+    },
+    "contents": {
+      "ja": [
+        "顔リズム1台",
+        "顔リズム用今治ゴムタオル",
+        "顔リズム専用バッグ",
+        "ワンタッチ振動装置"
+      ],
+      "en": [
+        "1 Kaorhythm Pro device",
+        "Imabari towel for Kaorhythm",
+        "Exclusive Kaorhythm carry bag",
+        "One-touch vibration module"
+      ]
+    },
+    "price": 220000,
+    "images": ["/images/products/kaorythm_new.jpg"],
+    "category": {
+      "ja": "顔リズム本体",
+      "en": "Kaorhythm Main Body"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDDHPo9yD7PttVfBZWa6KI",
+    "name": {
+      "ja": "顔リズムゴム付タオル（洗い替え用）ピンク色",
+      "en": "Kaorhythm Towel with Band (Pink)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴム付き交換タオル（ピンク）",
+      "en": "Replacement towel with elastic band for Kaorhythm (pink)."
+    },
+    "price": 5500,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDEuPo9yD7PttVtYzDWCyy",
+    "name": {
+      "ja": "顔リズムゴム付タオル（洗い替え用）青色",
+      "en": "Kaorhythm Towel with Band (Blue)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴム付き交換タオル（青）",
+      "en": "Replacement towel with elastic band for Kaorhythm (blue)."
+    },
+    "price": 5500,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDFPPo9yD7PttVopCDpAKa",
+    "name": {
+      "ja": "顔リズムゴム無しタオル ピンク色",
+      "en": "Kaorhythm Plain Towel (Pink)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴムなしフェイスタオル（ピンク）",
+      "en": "Plain face towel without elastic for Kaorhythm (pink)."
+    },
+    "price": 2750,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDFtPo9yD7PttVsOr6lW7V",
+    "name": {
+      "ja": "顔リズムゴム無しタオル 白色",
+      "en": "Kaorhythm Plain Towel (White)"
+    },
+    "description": {
+      "ja": "顔リズム用のゴムなしフェイスタオル（白）",
+      "en": "Plain face towel without elastic for Kaorhythm (white)."
+    },
+    "price": 2750,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKEPo9yD7PttVoMhjbpZ3",
+    "name": {
+      "ja": "ひっぱってリフトアップフェイスシート",
+      "en": "Pull-Up Lift-Up Face Sheet"
+    },
+    "description": {
+      "ja": "肌を引き上げるフェイスシート（個包装）",
+      "en": "Individually wrapped face sheet that lifts and firms the skin."
+    },
+    "price": 3300,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKSPo9yD7PttVnUWQITH6",
+    "name": {
+      "ja": "伝振保湿シート",
+      "en": "Denshin Moisturizing Sheet"
+    },
+    "description": {
+      "ja": "顔リズム用の高保湿シート",
+      "en": "High-moisture sheet designed for Kaorhythm."
+    },
+    "price": 8800,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDKrPo9yD7PttV9FgNmFi0",
+    "name": {
+      "ja": "振動装置（iPhone）と顔リズムとの接続コード",
+      "en": "Connection Cable (iPhone) for Vibration Module and Kaorhythm"
+    },
+    "description": {
+      "ja": "iPhoneと顔リズムを接続する専用コード",
+      "en": "Dedicated cable to connect an iPhone vibration module to the Kaorhythm device."
+    },
+    "price": 880,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1QoDLLPo9yD7PttV7D2PG90M",
+    "name": {
+      "ja": "ふきとりレスマッサージ＆パックジェル＋伝振保湿シートのセット",
+      "en": "No-Wipe Massage & Pack Gel + Denshin Moisturizing Sheet Set"
+    },
+    "description": {
+      "ja": "250g 約50回分のマッサージジェル",
+      "en": "250 g massage gel – approx. 50 uses."
+    },
+    "price": 19800,
+    "images": ["/images/products/noimage.png"],
+    "category": {
+      "ja": "顔リズムアクセサリ",
+      "en": "Kaorhythm Accessory"
+    },
+    "contents": {
+      "ja": [
+        "ふき取りレスマッサージ＆パックジェル",
+        "伝振保湿シート"
+      ],
+      "en": [
+        "No-Wipe Massage & Pack Gel",
+        "Denshin Moisturizing Sheet"
+      ]
+    },
+    "new": false,
+    "disabled": false
+  }
+]
