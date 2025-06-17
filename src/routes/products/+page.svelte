@@ -1,9 +1,12 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { page } from '$app/stores';
+	import { goto } from '$app/navigation';
 	import { locale } from '$lib/i18n';
 	import { fetchProducts } from '$lib/product/ProductFetcher';
 	import type { Product } from '$lib/product/Product';
 	import ProductCard from '$lib/components/ProductCard.svelte';
+	import { get } from 'svelte/store';
 
 	let currentLocale: 'ja' | 'en' = 'ja';
 	$: locale.subscribe(v => currentLocale = v);
@@ -11,7 +14,7 @@
 	let allProducts: Product[] = [];
 	let selectedCategory: string | null = null;
 
-	// 重複なしカテゴリ一覧
+	// カテゴリ一覧（重複なし）
 	$: categories = [...new Set(allProducts.map(p => p.category[currentLocale]))];
 
 	// 絞り込み
@@ -19,9 +22,28 @@
 		? allProducts.filter(p => p.category[currentLocale] === selectedCategory)
 		: allProducts;
 
+	// クエリパラメータ取得と反映
 	onMount(async () => {
 		allProducts = await fetchProducts();
+
+		const query = get(page).url.searchParams;
+		const cat = query.get('category');
+		if (cat) {
+			selectedCategory = cat;
+		}
 	});
+
+	// URLにクエリを反映
+	function updateQuery(category: string | null) {
+		const params = new URLSearchParams(get(page).url.searchParams);
+		if (category) {
+			params.set('category', category);
+		} else {
+			params.delete('category');
+		}
+		goto(`?${params.toString()}`, { replaceState: true });
+		selectedCategory = category;
+	}
 </script>
 
 <div class="max-w-7xl mx-auto px-4 mt-4 md:py-12 sm:py-4 font-serif text-textColor">
@@ -34,7 +56,7 @@
 	<div class="flex flex-wrap gap-3 mb-10">
 		<button
 			class="px-4 py-2 text-sm border rounded hover:bg-color1 transition {selectedCategory === null ? 'bg-color1 text-white' : ''}"
-			on:click={() => selectedCategory = null}
+			on:click={() => updateQuery(null)}
 		>
 			{currentLocale === 'ja' ? 'すべて' : 'All'}
 		</button>
@@ -42,7 +64,7 @@
 		{#each categories as cat}
 			<button
 				class="px-4 py-2 text-sm border rounded hover:bg-color1 transition {selectedCategory === cat ? 'bg-color1 text-white' : ''}"
-				on:click={() => selectedCategory = cat}
+				on:click={() => updateQuery(cat)}
 			>
 				{cat}
 			</button>

@@ -26,7 +26,7 @@
 		isLoading = false;
 	}
 
-	const images = [product.image, ...(product.images ?? [])];
+	const images = product.images;
 	let selectedImageIndex = 0;
 </script>
 
@@ -35,13 +35,23 @@
 	<div class="max-w-7xl mx-auto px-4 md:py-12 sm:py-4 grid grid-cols-1 md:grid-cols-2 gap-12">
 		<!-- 左カラム：画像ギャラリー -->
 		<div class="space-y-6 mt-4">
-			<img
-				src={images[selectedImageIndex]}
-				alt={product.name[currentLocale]}
-				class="w-full rounded border object-cover"
-			/>
+			<!-- メイン画像の枠（高さは画面サイズで変更） -->
+			<div class="relative w-full h-[300px] bg-black flex items-center justify-center rounded border overflow-hidden">
+				<img
+					src={images[selectedImageIndex]}
+					alt={product.name[currentLocale]}
+					class="max-w-full max-h-full object-contain"
+				/>
 
-			{#if images.length > 1}
+				<!-- オーバーレイのテキスト -->
+				<div class="absolute top-4 left-4 bg-black/60 text-white p-2 rounded text-sm sm:hidden">
+					<h1 class="text-base font-semibold">{product.name[currentLocale]}</h1>
+					<p class="text-sm font-medium">¥{product.price.toLocaleString()}</p>
+				</div>
+			</div>
+
+			{#if images.length > 0}
+				<!-- サムネイル -->
 				<div class="flex gap-3 overflow-x-auto">
 					{#each images as img, i}
 						<img

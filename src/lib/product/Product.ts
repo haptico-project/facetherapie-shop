@@ -9,7 +9,7 @@ export interface Product {
 		en: string;
 	};
 	price: number;
-	image: string;
+	images: [string];
 	category: {
 		ja: string;
 		en: string;

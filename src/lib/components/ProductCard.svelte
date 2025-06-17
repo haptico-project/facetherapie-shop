@@ -16,7 +16,7 @@
 <div class="group border rounded overflow-hidden hover:shadow-md transition bg-white flex flex-col">
 	<a href={`/products/${product.id}`} class="block">
 		<img
-			src={product.image}
+			src={product.images[0]}
 			alt={product.name?.[locale] ?? ''}
 			class="w-full h-64 object-cover"
 		/>

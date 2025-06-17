@@ -101,7 +101,7 @@
 			{#each items as item (item.id)}
 				<li class="flex flex-col sm:flex-row gap-4 items-start border-b border-gray-100 pb-6">
 					<img
-						src={item.image}
+						src={item.images[0]}
 						alt={item.name[currentLocale]}
 						class="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded border flex-shrink-0"
 					/>
