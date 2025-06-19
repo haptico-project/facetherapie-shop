@@ -54,14 +54,14 @@
     },
     "price": 125000,
     "images": [
+      "/images/products/drai-haru/haru-at-7.jpg",
+      "/images/products/drai-haru/haru-at-8.jpg",
       "/images/products/drai-haru/haru-at-1.jpg",
       "/images/products/drai-haru/haru-at-2.jpg",
       "/images/products/drai-haru/haru-at-3.jpg",
       "/images/products/drai-haru/haru-at-4.jpg",
       "/images/products/drai-haru/haru-at-5.jpg",
-      "/images/products/drai-haru/haru-at-6.jpg",
-      "/images/products/drai-haru/haru-at-7.jpg",
-      "/images/products/drai-haru/haru-at-8.jpg"
+      "/images/products/drai-haru/haru-at-6.jpg"
     ],
     "category": {
       "ja": "Dr.AI haru 本体",
