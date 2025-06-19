@@ -23,7 +23,7 @@
 		<!-- Hero Section -->
 		<section class="max-w-7xl mx-auto md:px-6 md:pt-8 pb-12">
 			<div class="w-full aspect-[3/2] overflow-hidden shadow-sm">
-				<img src="/images/hero-facetherapie.png"
+				<img src="/images/top.jpg"
 						 alt="facetherapie Hero"
 						 class="w-full h-full object-cover object-center" />
 			</div>
