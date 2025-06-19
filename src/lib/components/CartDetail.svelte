@@ -176,6 +176,7 @@
 			<p class="text-base font-medium text-textColor">
 				{currentLocale === 'ja' ? '小計' : 'Subtotal'}: ¥{total.toLocaleString()}
 			</p>
+			<span style="font-size: 12px;">({currentLocale === 'ja' ? '22,000円以上で送料無料' : 'Free shipping for orders over 22,000 yen'})</span>
 			<button
 				on:click={goToCheckout}
 				class="w-full bg-color1 text-white py-3 rounded hover:opacity-90 transition text-sm flex justify-center items-center"
