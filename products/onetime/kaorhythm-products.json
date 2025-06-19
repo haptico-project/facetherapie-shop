@@ -22,7 +22,9 @@
       ]
     },
     "price": 165000,
-    "images": ["/images/products/kaorythm_new.jpg"],
+    "images": [
+      "/images/products/kaorythm_new.jpg"
+    ],
     "category": {
       "ja": "顔リズム本体",
       "en": "Kaorhythm Main Body"
@@ -55,7 +57,10 @@
       ]
     },
     "price": 220000,
-    "images": ["/images/products/kaorythm_new.jpg"],
+    "images": [
+      "/images/products/kaorythm_new.jpg",
+      "/images/products/common/vibrator.png"
+    ],
     "category": {
       "ja": "顔リズム本体",
       "en": "Kaorhythm Main Body"
@@ -74,7 +79,9 @@
       "en": "Replacement towel with elastic band for Kaorhythm (pink)."
     },
     "price": 5500,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -93,7 +100,9 @@
       "en": "Replacement towel with elastic band for Kaorhythm (blue)."
     },
     "price": 5500,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -112,7 +121,9 @@
       "en": "Plain face towel without elastic for Kaorhythm (pink)."
     },
     "price": 2750,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -131,7 +142,9 @@
       "en": "Plain face towel without elastic for Kaorhythm (white)."
     },
     "price": 2750,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -150,7 +163,9 @@
       "en": "Individually wrapped face sheet that lifts and firms the skin."
     },
     "price": 3300,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -169,7 +184,9 @@
       "en": "High-moisture sheet designed for Kaorhythm."
     },
     "price": 8800,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -188,7 +205,9 @@
       "en": "Dedicated cable to connect an iPhone vibration module to the Kaorhythm device."
     },
     "price": 880,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
@@ -207,7 +226,9 @@
       "en": "250 g massage gel – approx. 50 uses."
     },
     "price": 19800,
-    "images": ["/images/products/noimage.png"],
+    "images": [
+      "/images/products/noimage.png"
+    ],
     "category": {
       "ja": "顔リズムアクセサリ",
       "en": "Kaorhythm Accessory"
