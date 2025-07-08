@@ -76,7 +76,7 @@
 			<a href="/products" class="hover:underline hover:text-color1 transition">
 				{currentLocale === 'ja' ? '商品一覧' : 'Products'}
 			</a>
-			<a href="{`https://airumx.com/?agencyCode=${$agencyCode}}`}" target="_blank">{t('hero.subscription-link')}<i class="mdi mdi-open-in-new"></i></a>
+			<a href="{`https://airumx.com/?agencyCode=${$agencyCode}`}" target="_blank">{t('hero.subscription-link')}<i class="mdi mdi-open-in-new"></i></a>
 		</div>
 		<!-- ✅ 代理店コード表示 -->
 		{#if $agencyCode}
