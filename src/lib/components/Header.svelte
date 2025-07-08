@@ -37,7 +37,7 @@
 		<nav class="hidden md:flex gap-8 items-center">
 			<a href="/" class="hover:underline">{t('nav.home')}</a>
 			<a href="/products" class="hover:underline">{t('nav.products')}</a>
-			<a href="{`https://airumx.com/?agencyCode=${$agencyCode}}`}" target="_blank">{t('hero.subscription-link')}<i class="mdi mdi-open-in-new"></i></a>
+			<a href="{`https://airumx.com/?agencyCode=${$agencyCode}`}" target="_blank">{t('hero.subscription-link')}<i class="mdi mdi-open-in-new"></i></a>
 			<!--			<a href="/about" class="hover:underline">{t('nav.about')}</a>-->
 		</nav>
 
