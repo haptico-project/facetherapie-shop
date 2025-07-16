@@ -80,7 +80,7 @@
     },
     "price": 5500,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/ゴム付きタオルピンク色.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
@@ -101,7 +101,7 @@
     },
     "price": 5500,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/ゴム付きタオルブルー色.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
@@ -122,7 +122,7 @@
     },
     "price": 2750,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/ゴム無しタオルピンク色.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
@@ -143,7 +143,7 @@
     },
     "price": 2750,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/ゴム無しタオル白色.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
@@ -185,7 +185,7 @@
     },
     "price": 8800,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/伝振保湿シート.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
@@ -206,7 +206,8 @@
     },
     "price": 880,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/common/vibrator.png",
+      "/images/products/common/connect_cable.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
