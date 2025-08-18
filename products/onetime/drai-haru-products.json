@@ -39,7 +39,7 @@
         "Portable Pouch for Vibration Device"
       ]
     },
-    "new": true,
+    "new": false,
     "disabled": false
   },
   {
@@ -86,7 +86,7 @@
         "Portable Pouch for Vibration Device"
       ]
     },
-    "new": true,
+    "new": false,
     "disabled": false
   },
   {
@@ -112,7 +112,7 @@
     "id": "price_1RatX5Po9yD7PttVjmx6jZV5",
     "name": {
       "ja": "Dr.AI HARUアタッチメント2ーアイマスク&ショルダー",
-      "en": ""
+      "en": "Dr.AI haru Attachment 2 - eye mask & shoulder"
     },
     "description": {
       "ja": "",
@@ -125,6 +125,120 @@
       "en": "Dr.AI haru Accessory"
     },
     "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRNsPo9yD7PttVwNAYCg90",
+    "name": {
+      "ja": "Dr.AI HARUアタッチメントコラーゲンマスク（ピンク）",
+      "en": "Dr.AI HARU Attachment Collagen Mask (Pink)"
+    },
+    "description": {
+      "ja": "Dr.AI HARU専用のピンク色アタッチメントコラーゲンマスクです。",
+      "en": "Attachment-type collagen mask in pink color for Dr.AI HARU device."
+    },
+    "price": 22000,
+    "images": ["/images/products/drai-haru/アタッチメントコラーゲンマスクピンク.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRPFPo9yD7PttVUgy91ldS",
+    "name": {
+      "ja": "Dr.AI HARUアタッチメントコラーゲンマスク（ブルー）",
+      "en": "Dr.AI HARU Attachment Collagen Mask (Blue)"
+    },
+    "description": {
+      "ja": "Dr.AI HARU専用のブルー色アタッチメントコラーゲンマスクです。",
+      "en": "Attachment-type collagen mask in blue color for Dr.AI HARU device."
+    },
+    "price": 22000,
+    "images": ["/images/products/drai-haru/アタッチメントコラーゲンマスクブルー.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRRRPo9yD7PttVekKoip9f",
+    "name": {
+      "ja": "Dr.AI HARU丸カバー小（ピンク）",
+      "en": "Dr.AI HARU Round Cover Small (Pink)"
+    },
+    "description": {
+      "ja": "直径9センチの小型サイズ、ピンク色の丸型カバーです。",
+      "en": "Small round cover with 9 cm diameter in pink color."
+    },
+    "price": 3980,
+    "images": ["/images/products/drai-haru/丸カバー小ピンク.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRRfPo9yD7PttVQXXcI2jN",
+    "name": {
+      "ja": "Dr.AI HARU丸カバー小（黒）",
+      "en": "Dr.AI HARU Round Cover Small (Black)"
+    },
+    "description": {
+      "ja": "直径9センチの小型サイズ、黒色の丸型カバーです。",
+      "en": "Small round cover with 9 cm diameter in black color."
+    },
+    "price": 3980,
+    "images": ["/images/products/drai-haru/丸カバー小黒.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRTQPo9yD7PttVsu5yV8Hn",
+    "name": {
+      "ja": "Dr.AI HARU丸カバー大（ピンク）",
+      "en": "Dr.AI HARU Round Cover Large (Pink)"
+    },
+    "description": {
+      "ja": "直径12センチの大型サイズ、ピンク色の丸型カバーです。",
+      "en": "Large round cover with 12 cm diameter in pink color."
+    },
+    "price": 8800,
+    "images": ["/images/products/drai-haru/丸カバー大ピンク.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
+    "disabled": false
+  },
+  {
+    "id": "price_1RxRTePo9yD7PttVHT1mSzcn",
+    "name": {
+      "ja": "Dr.AI HARU丸カバー大（黒）",
+      "en": "Dr.AI HARU Round Cover Large (Black)"
+    },
+    "description": {
+      "ja": "直径12センチの大型サイズ、黒色の丸型カバーです。",
+      "en": "Large round cover with 12 cm diameter in black color."
+    },
+    "price": 8800,
+    "images": ["/images/products/drai-haru/丸カバー大黒.jpg"],
+    "category": {
+      "ja": "Dr.AI haru アクセサリ",
+      "en": "Dr.AI haru Accessory"
+    },
+    "new": true,
     "disabled": false
   }
 ]
