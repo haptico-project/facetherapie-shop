@@ -25,7 +25,7 @@ export function initAgencyCode(): void {
 
 	const lang = get(locale) ?? 'ja';
 	const url = get(page).url;
-	const queryCode = url.searchParams.get('agencyCode');
+	const queryCode = url.searchParams.get('agencyCode') ?? '2139';
 	const sessionCode = sessionStorage.getItem('agencyCode');
 
 	if (queryCode) {
