@@ -14,7 +14,9 @@ export async function fetchProducts(): Promise<Product[]> {
 	if (!res4.ok) throw new Error('Failed to load products');
 
 	const [data1, data2, data3, data4] = await Promise.all([res1.json(), res2.json(), res3.json(), res4.json()]);
-	const merged = [...data1, ...data2, ...data3, ...data4]; // 配列として結合
+
+	// dr AI は除外
+	const merged = [...data1, ...data3, ...data4]; // 配列として結合
 
 	return merged;
 }
