@@ -1,6 +1,9 @@
 [
   {
     "id": "price_1SYHPTPo9yD7PttVQoNtvz2z",
+    "agencySpec": [
+      "2816"
+    ],
     "name": {
       "ja": "Dr.AI haru 基本セット（ピンク色）",
       "en": "Dr.AI haru Basic Set (Pink Color)"
@@ -39,6 +42,9 @@
   },
   {
     "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
+    "agencySpec": [
+      "2816"
+    ],
     "name": {
       "ja": "Dr.AI haru 基本セット（黒色）",
       "en": "Dr.AI haru Basic Set (Black Color)"
@@ -82,6 +88,9 @@
   },
   {
     "id": "price_1RY9UFPo9yD7PttVAM874j1M",
+    "agencySpec": [
+      "2816"
+    ],
     "name": {
       "ja": "Dr.AI haru アタッチメントセット",
       "en": "Dr.AI haru Attachment Set"
@@ -138,7 +147,9 @@
       "en": ""
     },
     "price": 3980,
-    "images": ["/images/products/drai-haru/haru-at-4.jpg"],
+    "images": [
+      "/images/products/drai-haru/haru-at-4.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -157,7 +168,9 @@
       "en": ""
     },
     "price": 16500,
-    "images": ["/images/products/drai-haru/haru-at-7.jpg"],
+    "images": [
+      "/images/products/drai-haru/haru-at-7.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -176,7 +189,9 @@
       "en": "Attachment-type collagen mask in pink color for Dr.AI HARU device."
     },
     "price": 22000,
-    "images": ["/images/products/drai-haru/アタッチメントコラーゲンマスクピンク.jpg"],
+    "images": [
+      "/images/products/drai-haru/アタッチメントコラーゲンマスクピンク.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -195,7 +210,9 @@
       "en": "Attachment-type collagen mask in blue color for Dr.AI HARU device."
     },
     "price": 22000,
-    "images": ["/images/products/drai-haru/アタッチメントコラーゲンマスクブルー.jpg"],
+    "images": [
+      "/images/products/drai-haru/アタッチメントコラーゲンマスクブルー.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -214,7 +231,9 @@
       "en": "Small round cover with 9 cm diameter in pink color."
     },
     "price": 3980,
-    "images": ["/images/products/drai-haru/丸カバー小ピンク.jpg"],
+    "images": [
+      "/images/products/drai-haru/丸カバー小ピンク.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -233,7 +252,9 @@
       "en": "Small round cover with 9 cm diameter in black color."
     },
     "price": 3980,
-    "images": ["/images/products/drai-haru/丸カバー小黒.jpg"],
+    "images": [
+      "/images/products/drai-haru/丸カバー小黒.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -252,7 +273,9 @@
       "en": "Large round cover with 12 cm diameter in pink color."
     },
     "price": 8800,
-    "images": ["/images/products/drai-haru/丸カバー大ピンク.jpg"],
+    "images": [
+      "/images/products/drai-haru/丸カバー大ピンク.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
@@ -271,7 +294,9 @@
       "en": "Large round cover with 12 cm diameter in black color."
     },
     "price": 8800,
-    "images": ["/images/products/drai-haru/丸カバー大黒.jpg"],
+    "images": [
+      "/images/products/drai-haru/丸カバー大黒.jpg"
+    ],
     "category": {
       "ja": "Dr.AI haru アクセサリ",
       "en": "Dr.AI haru Accessory"
