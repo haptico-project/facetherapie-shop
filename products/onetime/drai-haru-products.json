@@ -1,9 +1,47 @@
 [
   {
+    "id": "price_1SYHPTPo9yD7PttVQoNtvz2z",
+    "name": {
+      "ja": "Dr.AI haru 基本セット（ピンク色）",
+      "en": "Dr.AI haru Basic Set (Pink Color)"
+    },
+    "description": {
+      "ja": "",
+      "en": "Includes the main Dr.AI haru unit, vibration module, long strap attachment, and portable pouch."
+    },
+    "price": 110000,
+    "images": [
+      "/images/products/drai-haru/haru-pk-1.jpg",
+    ],
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動装置",
+        "モバイルバッテリー",
+        "充電用のソケットとコード",
+        "携帯用収納ケース",
+        "綿の帯状アタッチメント",
+        "ピンクのポーチ"
+      ],
+      "en": [
+        "Dr.AI haru Main Unit",
+        "Vibration Module",
+        "Dr.AI haru Attachment - Long Strap",
+        "Portable Pouch for Vibration Device"
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
     "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
     "name": {
-      "ja": "Dr.AI haru 基本セット",
-      "en": "Dr.AI haru Basic Set"
+      "ja": "Dr.AI haru 基本セット（黒色）",
+      "en": "Dr.AI haru Basic Set (Black Color)"
     },
     "description": {
       "ja": "",
