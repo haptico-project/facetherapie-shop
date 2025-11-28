@@ -1,7 +1,7 @@
 [
   {
     "id": "price_1SYHPTPo9yD7PttVQoNtvz2z",
-    "agencySpec": [
+    "allowAgencies": [
       "2816"
     ],
     "name": {
@@ -42,7 +42,7 @@
   },
   {
     "id": "price_1RY9UFPo9yD7PttVwKvSQVXF",
-    "agencySpec": [
+    "allowAgencies": [
       "2816"
     ],
     "name": {
@@ -88,7 +88,7 @@
   },
   {
     "id": "price_1RY9UFPo9yD7PttVAM874j1M",
-    "agencySpec": [
+    "allowAgencies": [
       "2816"
     ],
     "name": {

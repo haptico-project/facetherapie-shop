@@ -20,4 +20,5 @@ export interface Product {
 	};
 	new: boolean;
 	disabled: boolean;
+	allowAgencies: [string];
 }
