@@ -1,6 +1,6 @@
 [
   {
-    "id": "price_1SYHPTPo9yD7PttVQoNtvz2z",
+    "id": "price_1SZLo9Po9yD7PttVOIVto0Ih",
     "allowAgencies": [
       "2816"
     ],
@@ -10,7 +10,7 @@
     },
     "description": {
       "ja": "",
-      "en": "Includes the main Dr.AI haru unit, vibration module, long strap attachment, and portable pouch."
+      "en": "Includes the main Dr.AI haru unit, vibration module, mobile battery, charging socket and cord, portable storage case, cotton long strap attachment, and pink pouch."
     },
     "price": 110000,
     "images": [
@@ -33,8 +33,11 @@
       "en": [
         "Dr.AI haru Main Unit",
         "Vibration Module",
-        "Dr.AI haru Attachment - Long Strap",
-        "Portable Pouch for Vibration Device"
+        "Mobile Battery",
+        "Charging Socket and Cord",
+        "Portable Storage Case",
+        "Cotton Long Strap Attachment",
+        "Pink Pouch"
       ]
     },
     "new": false,
@@ -51,10 +54,11 @@
     },
     "description": {
       "ja": "",
-      "en": "Includes the main Dr.AI haru unit, vibration module, long strap attachment, and portable pouch."
+      "en": "Includes the main Dr.AI haru unit, vibration module, mobile battery, charging socket and cord, portable storage case, cotton long strap attachment, and black pouch."
     },
     "price": 110000,
     "images": [
+      "/images/products/drai-haru/haru-at-0.jpg",
       "/images/products/drai-haru/haru-at-1.jpg",
       "/images/products/drai-haru/haru-at-2.jpg",
       "/images/products/drai-haru/haru-at-3.jpg",
@@ -79,8 +83,105 @@
       "en": [
         "Dr.AI haru Main Unit",
         "Vibration Module",
-        "Dr.AI haru Attachment - Long Strap",
-        "Portable Pouch for Vibration Device"
+        "Mobile Battery",
+        "Charging Socket and Cord",
+        "Portable Storage Case",
+        "Cotton Long Strap Attachment",
+        "Black Pouch"
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1SZLjtPo9yD7PttVGysOJ1ui",
+    "allowAgencies": [
+      "2816"
+    ],
+    "name": {
+      "ja": "Dr.AI haru 顔マスクセット（ピンク色）",
+      "en": "Dr.AI haru Face Mask Set (Pink Color)"
+    },
+    "description": {
+      "ja": "",
+      "en": "Includes the main Dr.AI haru unit, vibration module, mobile battery, charging socket and cord, portable storage case, cotton long strap attachment, pink pouch, and face mask."
+    },
+    "price": 132000,
+    "images": [
+      "/images/products/drai-haru/アタッチメントコラーゲンマスクピンク.jpg",
+      "/images/products/drai-haru/haru-pk-1.jpg"
+    ],
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動装置",
+        "モバイルバッテリー",
+        "充電用のソケットとコード",
+        "携帯用収納ケース",
+        "綿の帯状アタッチメント",
+        "ピンクのポーチ",
+        "顔型マスク"
+      ],
+      "en": [
+        "Dr.AI haru Main Unit",
+        "Vibration Module",
+        "Mobile Battery",
+        "Charging Socket and Cord",
+        "Portable Storage Case",
+        "Cotton Long Strap Attachment",
+        "Pink Pouch",
+        "Face Mask"
+      ]
+    },
+    "new": false,
+    "disabled": false
+  },
+  {
+    "id": "price_1SZLjtPo9yD7PttVGysOJ1ui",
+    "allowAgencies": [
+      "2816"
+    ],
+    "name": {
+      "ja": "Dr.AI haru 顔マスクセット（黒色）",
+      "en": "Dr.AI haru Face Mask Set (Black Color)"
+    },
+    "description": {
+      "ja": "",
+      "en": "Includes the main Dr.AI haru unit, vibration module, mobile battery, charging socket and cord, portable storage case, cotton long strap attachment, black pouch, and face mask."
+    },
+    "price": 132000,
+    "images": [
+      "/images/products/drai-haru/アタッチメントコラーゲンマスクブルー.jpg",
+      "/images/products/drai-haru/haru-at-0.jpg"
+    ],
+    "category": {
+      "ja": "Dr.AI haru 本体",
+      "en": "Dr.AI haru Main Body"
+    },
+    "contents": {
+      "ja": [
+        "Dr.AI haru 本体",
+        "振動装置",
+        "モバイルバッテリー",
+        "充電用のソケットとコード",
+        "携帯用収納ケース",
+        "綿の帯状アタッチメント",
+        "黒のポーチ",
+        "顔型マスク"
+      ],
+      "en": [
+        "Dr.AI haru Main Unit",
+        "Vibration Module",
+        "Mobile Battery",
+        "Charging Socket and Cord",
+        "Portable Storage Case",
+        "Cotton Long Strap Attachment",
+        "Black Pouch",
+        "Face Mask"
       ]
     },
     "new": false,
@@ -97,7 +198,7 @@
     },
     "description": {
       "ja": "",
-      "en": "A complete set including the Dr.AI haru unit, vibration module, long strap, eye mask & shoulder attachments, and a portable pouch."
+      "en": "Includes the main Dr.AI haru unit, vibration module, mobile battery, charging socket and cord, portable storage case, cotton long strap attachment, eye mask and shoulder attachment, and black pouch."
     },
     "price": 125000,
     "images": [
@@ -128,23 +229,26 @@
       "en": [
         "Dr.AI haru Main Unit",
         "Vibration Module",
-        "Dr.AI haru Attachment - Long Strap",
-        "Dr.AI haru Attachment - Eye Mask & Shoulder",
-        "Portable Pouch for Vibration Device"
+        "Mobile Battery",
+        "Charging Socket and Cord",
+        "Portable Storage Case",
+        "Cotton Long Strap Attachment",
+        "Eye Mask and Shoulder Attachment",
+        "Black Pouch"
       ]
     },
     "new": false,
-    "disabled": false
+    "disabled": true
   },
   {
     "id": "price_1RatUePo9yD7PttVRykkCdV8",
     "name": {
       "ja": "Dr.AI HARUアタッチメント1ー長帯",
-      "en": ""
+      "en": "Dr.AI HARU Attachment 1 - Long Strap"
     },
     "description": {
       "ja": "",
-      "en": ""
+      "en": "Long strap attachment for Dr.AI HARU."
     },
     "price": 3980,
     "images": [
@@ -161,11 +265,11 @@
     "id": "price_1RatX5Po9yD7PttVjmx6jZV5",
     "name": {
       "ja": "Dr.AI HARUアタッチメント2ーアイマスク&ショルダー",
-      "en": "Dr.AI haru Attachment 2 - eye mask & shoulder"
+      "en": "Dr.AI HARU Attachment 2 - Eye Mask & Shoulder"
     },
     "description": {
       "ja": "",
-      "en": ""
+      "en": "Eye mask and shoulder attachment for Dr.AI HARU."
     },
     "price": 16500,
     "images": [
