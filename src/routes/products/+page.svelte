@@ -7,6 +7,7 @@
 	import type { Product } from '$lib/product/Product';
 	import ProductCard from '$lib/components/ProductCard.svelte';
 	import { get } from 'svelte/store';
+	import { agencyCode } from '$lib/agency/agencyCode';
 
 	let currentLocale: 'ja' | 'en' = 'ja';
 	$: locale.subscribe(v => currentLocale = v);
@@ -24,7 +25,14 @@
 
 	// クエリパラメータ取得と反映
 	onMount(async () => {
-		allProducts = await fetchProducts();
+		const code = get(agencyCode) as string;
+		allProducts = (await fetchProducts()).filter(p => {
+			if (p.allowAgencies) {
+				return p.allowAgencies.includes(code);
+			} else {
+				return true
+			}
+		});
 
 		const query = get(page).url.searchParams;
 		const cat = query.get('category');
