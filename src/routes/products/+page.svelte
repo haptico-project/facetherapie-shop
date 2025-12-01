@@ -26,13 +26,15 @@
 	// クエリパラメータ取得と反映
 	onMount(async () => {
 		const code = get(agencyCode) as string;
-		allProducts = (await fetchProducts()).filter(p => {
-			if (p.allowAgencies) {
-				return p.allowAgencies.includes(code);
-			} else {
-				return true
-			}
-		});
+		allProducts = (await fetchProducts())
+			.filter(p => !p.disabled)
+			.filter(p => {
+				if (p.allowAgencies) {
+					return p.allowAgencies.includes(code);
+				} else {
+					return true;
+				}
+			});
 
 		const query = get(page).url.searchParams;
 		const cat = query.get('category');
