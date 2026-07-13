@@ -155,16 +155,16 @@
   {
     "id": "price_1QoDKEPo9yD7PttVoMhjbpZ3",
     "name": {
-      "ja": "ひっぱってリフトアップフェイスシート",
-      "en": "Pull-Up Lift-Up Face Sheet"
+      "ja": "コラーゲンモイストパック（プロ仕様）",
+      "en": "Collagen Moist Pack (Pro)"
     },
     "description": {
-      "ja": "肌を引き上げるフェイスシート（個包装）",
-      "en": "Individually wrapped face sheet that lifts and firms the skin."
+      "ja": "うるおいを与えるコラーゲン配合の保湿パック（個包装）",
+      "en": "Individually wrapped collagen moisturizing pack."
     },
     "price": 3300,
     "images": [
-      "/images/products/noimage.png"
+      "/images/products/kaorhythm/コラーゲンモイストパック.jpg"
     ],
     "category": {
       "ja": "顔リズムアクセサリ",
